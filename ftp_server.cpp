@@ -24,8 +24,8 @@ using namespace std;
 #define DATA_SIZE 1024
 
 /*
-* 14CS30011 : Hiware Kaustubh Narendra
-* 14CS30017 : Surya Midatala
+* written by @kingofools (Surya) and
+* @kaustubhhiware as a part of OS Lab
 */
 
 /* FPS server
